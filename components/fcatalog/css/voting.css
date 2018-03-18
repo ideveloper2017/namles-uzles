@@ -1,0 +1,52 @@
+.voting {
+	position:relative;
+	width:90px;
+	height:12px;
+	overflow:hidden;
+	background: url(stars.png) 0 -12px no-repeat;
+list-style:none;
+	}
+	.voting LI {
+		float:left;
+
+		}
+	.voting A {
+		position:absolute;
+		top:0;
+		left:0;
+		display:block;
+		height:22px;
+		text-indent:-9999px;
+		}
+	.voting A.cur,
+	.voting A:hover,
+	.voting:hover A.cur:hover,
+	.voting.phover A.cur:hover,
+	.voting:hover A:hover,
+	.voting.phover A:hover {
+		background:url(stars.png) no-repeat;
+		}
+	.voting:hover A.cur,
+	.voting.phover A.cur {
+		background:none;
+		}
+	.voting .one A {
+		width:12px;
+		z-index:5;
+		}
+	.voting .two A {
+		width:26px;
+		z-index:4;
+		}
+	.voting .three A {
+		width:40px;
+		z-index:3;
+		}
+	.voting .four A {
+		width:54px;
+		z-index:2;
+		}
+	.voting .five A {
+		width:68px;
+		z-index:1;
+		}

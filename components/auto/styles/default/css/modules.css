@@ -1,0 +1,55 @@
+.mod_auto_latest{
+    border: 1px solid #808080;
+}
+
+.mod_auto_latest-title{
+    background: #8999AE;
+    white-space: nowrap;
+    padding: 1px 7px;
+    margin-bottom: 5px;
+}
+
+.mod_auto_latest-title a{
+    font-size: 12px;
+    color: #ebedf1;
+}
+
+.mod_auto_latest-aditem-container{
+    margin: 5px;
+}
+
+.mod_auto_latest-aditem{
+    display: inline-block;
+    position: relative;
+}
+
+.mod_auto_latest-aditem .mod_auto_latest-aditem_title{
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    color: #ffffff;
+}
+
+.mod_auto_latest-aditem .mod_auto_latest-aditem_price{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    font-weight: bold;
+    color: #57616e;
+    padding: 2px 7px;
+    border: 1px solid #c4c4c4;
+    border-radius: 7px;
+    background: #ffffff;
+    background: -moz-linear-gradient(top, #ffffff 0%, #e5e5e5 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5));
+    background: -webkit-linear-gradient(top, #ffffff 0%,#e5e5e5 100%);
+    background: -o-linear-gradient(top, #ffffff 0%,#e5e5e5 100%);
+    background: -ms-linear-gradient(top, #ffffff 0%,#e5e5e5 100%);
+    background: linear-gradient(to bottom, #ffffff 0%,#e5e5e5 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 );
+}
+
+.mod_auto_latest-aditem img{
+    width: 146px;
+    height: 110px;
+}

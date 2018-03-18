@@ -1,0 +1,167 @@
+h3 span { color: #7f8c8d; }
+
+.ss-form fieldset{
+    border: 1px dotted #C0C0C0;
+    padding:10px;
+    margin-bottom:10px;
+}
+    
+.ss-form .field{
+    margin-bottom:10px;
+}
+
+.ss-form label {
+    display: block;
+    margin:5px 0;
+}
+
+.ss-form .input-text {
+    width:450px;
+}
+
+.ss-form .input-small {
+    width:60px;
+}
+
+/* ========================================================================== */
+
+#ss-slide-options {
+    padding: 10px;
+    padding-bottom: 1px;
+    background: #ECECEC;
+    border-bottom: solid 1px #CCC;
+}
+
+#ss-slide-options label{
+    display: block;
+    margin-bottom: 3px;
+}
+
+#ss-slide-options .input-text{
+    width: 175px;
+    margin-bottom: 2px;
+}
+
+.qq-upload-button{
+    display:inline-block;
+    padding:4px 10px;
+    background:#bdc3c7;
+    width:161px;
+    text-align: center;
+}
+.qq-upload-button:hover{
+    background:#3498db;
+    color:#FFF;
+}
+
+.qq-upload-list {margin:15px 35px; padding:0; list-style:disc;}
+.qq-upload-list li { margin:0; padding:0; line-height:15px; font-size:12px;}
+.qq-upload-file, .qq-upload-spinner, .qq-upload-size, .qq-upload-cancel, .qq-upload-failed-text {
+    margin-right: 7px;
+}
+
+.qq-upload-file {}
+.qq-upload-spinner {display:inline-block; background: url("../images/loading.gif"); width:15px; height:15px; vertical-align:text-bottom;}
+.qq-upload-size,.qq-upload-cancel {font-size:11px;}
+
+.qq-upload-failed-text {display:none;}
+.qq-upload-fail .qq-upload-failed-text {display:inline;}
+
+/* ========================================================================== */
+
+#ss-builder { border-collapse: collapse; width:100%; }
+
+#ss-builder td { border:solid 1px #CCC;  border-top: none; }
+
+#ss-builder #layers {
+    overflow-y: auto;
+    width:100%;
+}
+
+#ss-builder #props .close {
+    float:right;
+    text-decoration: none;
+    color: #c0392b;
+}
+#ss-builder #props .close:hover {
+    color:#e67e22;
+}
+
+#ss-builder #props {
+    padding:10px;
+    background:#ECECEC;
+}
+
+#ss-builder #props .prop-group { float:left; margin-right:10px; }
+
+#ss-builder #props .prop{ height:45px;}
+#ss-builder #props .prop:last-child{ margin-bottom: 0; }
+
+#ss-builder #props label { display:block; margin-bottom:3px; font-size:11px; }
+#ss-builder #props .input-text { width:145px; }
+#ss-builder #props .input-color { width:80px; }
+#ss-builder #props .input-size { width:45px; }
+#ss-builder #props select { width:152px; }
+
+#ss-builder #props #prop-padding{
+    width:108px;
+}
+#ss-builder #props #prop-font-size{
+    width:75px;
+}
+#ss-builder #props .qq-upload-button{ width:108px; }
+
+#ss-builder #layers ul { list-style-type: none; margin: 4px 0; padding: 0; }
+#ss-builder #layers ul li {     margin: 0 3px 3px 3px;
+    padding: 0.2em;
+    padding-left: 1.5em;
+    height: 28px;
+    cursor: pointer; }
+#ss-builder #layers ul li span.ui-icon { position: absolute; margin-left: -1.3em; }
+#ss-builder #layers ul li.selected { background: #ECECEC; }
+
+#ss-builder #layers #btn-add-layer {
+    margin-top:10px; display: block;
+    margin-left:10px;
+    padding-left:20px;
+    height:16px;
+    line-height:16px;
+    background:url("/templates/_default_/images/icons/add.png") no-repeat left center;
+}
+
+#ss-builder #layers #btn-del-layer {
+    margin-top:15px; display: none;
+    margin-left:10px;
+    padding-left:20px;
+    height:16px;
+    line-height:16px;
+    background:url("/templates/_default_/images/icons/delete.png") no-repeat left center;
+}
+
+#ss-builder #preview {
+    padding:15px;
+}
+
+#ss-builder #preview #slider{
+    background-color:#CCC;
+    display: block;
+    background-position: center center;
+    overflow: hidden;
+    position: relative;
+}
+
+#ss-builder #preview #slider .layer{
+    display: inline-block;
+    left:0;
+    top:0;
+    font-size:18px;
+    cursor: pointer;
+    overflow:hidden;
+    margin:2px;
+    position: absolute !important;
+}
+
+#ss-builder #preview #slider .layer.selected{
+    margin:0;
+    border:dashed 2px #3297FD;
+}

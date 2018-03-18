@@ -1,0 +1,105 @@
+
+.mod_re_block {
+	margin: 7px;background: #000;
+	float: left;
+}
+.mod_re_top {overflow: hidden;background: #000;color: #D4D4D3;padding: 5px}
+.mod_re_top span{font-size: 11px;display: inline-block;padding-top: 3px}
+
+.toplay{
+	background: url(/modules/mod_cvideo/images/play.png) center center no-repeat;
+	display: block;;
+	width:260px;
+	height:120px;
+	position: absolute;
+
+}
+
+#mod_re .con_subcat{
+   font-size: 12px;
+text-transform: uppercase;
+display: block;
+float: right;
+padding-left: 18px;
+color: #ABABAB; 
+}
+#mod_re_tit {
+  overflow: hidden;
+  background: #1B1B1B;
+  color: #fff
+}
+#mod_re_tit a{
+  color: #fff
+}
+.mod_re_tit {
+	margin-right: 30px;line-height: 13px;font-size: 12px;padding: 5px 0 5px 5px;display: block;
+}
+.mod_v_rating{
+	float: right;
+	width:50px;
+	font-size: 11px;
+	padding-top: 5px
+}
+.mod_re_rating,.mod_re_rating_plus,.mod_re_rating_minus {
+height: 16px;
+line-height: 16px;
+     padding-left: 20px;
+     	  background: url("/modules/mod_cvideo/images/like.png") no-repeat left center;
+  	  font-weight: bold;
+  	  font-size:12px;
+}
+.mod_re_rating_plus {
+	  background: url("/modules/mod_cvideo/images/like_green.png") no-repeat left center;
+	}
+.mod_re_rating_minus {
+	  background: url("/modules/mod_cvideo/images/dislike_red.png") no-repeat left center;
+	}
+
+.mod_re_comments {
+height: 16px;
+line-height: 16px;
+    background: url("/modules/mod_cvideo/images/comments.png") no-repeat left center;
+     padding-left: 20px;
+}
+
+
+/*---------------------------- Райтинг  ------------------------------*/
+
+.con_like,.con_dislike,.con_like_disable,.con_dislike_disable {
+  width:32px;
+  height: 24px;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: middle
+  }
+.con_like,.con_like_disable {
+  background:url(/modules/mod_cvideo/images/like.png) no-repeat center center;
+  }
+.con_dislike,.con_dislike_disable {
+background:url(/modules/mod_cvideo/images/dislike.png) no-repeat center center;
+}
+.con_like:hover,#con_like_pos .con_like,#con_like_pos .con_like_disable{
+  background:url(/modules/mod_cvideo/images/like_green.png) no-repeat center center;
+  }
+.con_dislike:hover,#con_like_neg .con_dislike,#con_like_neg .con_dislike_disable{
+  background:url(/modules/mod_cvideo/images/dislike_red.png) no-repeat center center;
+  }
+.con_like:hover, .con_dislike:hover,
+#con_like_pos .con_like:hover,
+#con_like_neg .con_like:hover{
+  background-color:#fafafa
+  }
+.con_like_disable,.con_dislike_disable {
+  opacity:0.2;filter:alpha(opacity=20);
+  }
+#con_like_pos .con_like_disable, #con_like_neg .con_dislike_disable {
+  opacity:1;filter:alpha(opacity=100);
+  }
+
+.con_like_point {
+height: 24px;
+display: inline-block;
+overflow: hidden;
+min-width:20px;
+text-align: center;   vertical-align: middle
+}

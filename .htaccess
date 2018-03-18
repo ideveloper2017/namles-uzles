@@ -1,0 +1,76 @@
+AddDefaultCharset utf-8
+Options -Indexes
+RewriteEngine on
+RewriteBase /
+RewriteRule ^.htaccess$ - [F]
+RewriteCond %{REQUEST_FILENAME} !^/admin
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php?/$1 [L]
+
+#php_value post_max_size 30000M
+#php_value upload_max_filesize 30000M
+#php_value max_execution_time 20000
+#php_value max_input_time 20000
+
+#ErrorDocument 404 /theme/vodiy/error404.php
+#RewriteRule ^arhive/([0-9]*)/([0-9]*)/([0-9]*)/([0-9]*)$ /index.php?do=arhive
+#RewriteRule ^arhive/([0-9]*)/([0-9]*)/([0-9]*)$ /index.php?do=arhive&y=$1&m=$2&d=$3
+#RewriteRule ^arhive/([0-9]*)/([0-9]*)$ /index.php?do=arhive&y=$2&menuid=$1
+#RewriteRule ^arhive/([0-9]*)/([0-9]*)$ /index.php?do=arhive&y=$2&m=$1
+#RewriteRule ^arhive/([0-9]*)$ /index.php?do=arhive&y=$1
+#RewriteRule ^arhive$ /index.php?view=arhive
+
+RewriteRule ^lang/([a-zA-Z0-9_+-]*)$ /index.php?lang=$1
+
+RewriteRule ^([0-9]*)/([a-zA-Z0-9_+-]*)$ /index.php?do=content&action=view&seo=$2&menuid=$1
+RewriteRule ^([0-9]*)/(([a-zA-Z0-9_+-]*)/([a-zA-Z0-9_+-])*)$ index.php?do=content&action=view&seo=$2&menuid=$1
+RewriteRule ^([0-9]*)/(([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+))$ /index.php?do=content&action=view&seo=$2&menuid=$1
+
+#RewriteRule ^([a-zA-Z0-9_+-]+).html$ /index.php?do=content&action=read&seo=$1 [L,QSA]
+RewriteRule ^([a-zA-Z0-9_+-]+)/(([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+)).html$ /index.php?do=content&action=read&seo=$2&menuid=$1
+RewriteRule ^([a-zA-Z0-9_+-]+)/(([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+)).html$ /index.php?do=content&action=read&seo=$2&menuid=$1
+RewriteRule ^([a-zA-Z0-9_+-]+)/(([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+)/([a-zA-Z0-9_+-]+)).html$ /index.php?do=content&action=read&seo=$2&menuid=$1
+
+
+#Users
+RewriteRule ^signup$ /index.php?do=registration&action=signup
+RewriteRule ^forget$ /index.php?do=registration&action=forgout
+RewriteRule ^auth$ /index.php?do=registration&action=auth
+RewriteRule ^logout$ /index.php?do=registration&action=logout
+RewriteRule ^profile/([a-zA-Z0-9_+-]+)$ /index.php?do=registration&action=profile&username=$1
+
+
+#Search
+RewriteRule ^search.html$ /index.php?do=search
+RewriteRule  ^search/tag/(.+)?$ /index.php?do=search&action=tag&query=$1
+
+#Content
+RewriteRule ^add$ /index.php?do=content&action=add
+RewriteRule ^my$ /index.php?do=content&action=my
+
+#COMPONENT "PHOTOGALLERY"
+RewriteRule ^photos/([0-9]*)/([0-9]*).html$ /index.php?do=photos&id=$2&menuid=$1
+RewriteRule ^photos/([0-9]*)/([0-9]*)-([0-9]*).html$ /index.php?do=photos&id=$2&menuid=$1&page=$3
+RewriteRule ^photos/photo([0-9]*).html$ /index.php?do=photos&action=viewphoto&id=$1
+RewriteRule ^photos/([0-9]*).html$ /index.php?do=photos&menuid=$1
+RewriteRule ^photos$ /index.php?do=photos&action=view
+
+RewriteRule ^contacts.html?$ /index.php?do=contacts
+RewriteRule ^feedback?$ /index.php?do=feedback
+
+
+#FCatalog
+#RewriteRule  ^fcatalog?$ /index.php?do=fcatalog&action=cats
+#RewriteRule  ^fcatalog/([a-zA-Z0-9_+-]+)?$ /index.php?do=fcatalog&action=list_cat&seolink=$1
+#RewriteRule  ^fcatalog/view_file-([a-zA-Z0-9_+-]+).html?$ /index.php?do=fcatalog&action=view&f_id=$1
+#RewriteRule  ^fcatalog/download([0-9]*).html?$ /index.php?do=fcatalog&action=download&f_id=$1
+#RewriteRule  ^fcatalog/search.html?$ /index.php?do=fcatalog&action=search
+#RewriteRule  ^fcatalog/search/(.+)?$ /index.php?do=fcatalog&action=search&query=$1
+
+#
+#RewriteRule ^media/?$ /index.php?do=media
+#RewriteRule ^media/singer([0-9]+)?$ /index.php?do=media&action=view_signer&singer_index=$1
+#RewriteRule ^media/audio?$ /index.php?do=media&action=audio_view
+#RewriteRule ^media/video?$ /index.php?do=media&action=video_view
+#RewriteRule ^media/video/([a-zA-Z0-9_+-]+)?$ /index.php?do=media&action=read&seo=$1

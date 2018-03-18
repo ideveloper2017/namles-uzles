@@ -1,0 +1,109 @@
+/* Системные стили, не изменять! ============================================ */
+
+.superslider { position:relative; word-wrap: normal;  }
+.superslider .slider,
+.superslider .slider .slide { list-style: none; margin:0; padding:0; }
+.superslider .slider { position: relative; margin: 0 auto; overflow: hidden; }
+.superslider .slider .slide { position: relative; left:auto; top:auto; margin: 0; padding:0; }
+.superslider .slider.horizontal{ white-space: nowrap; }
+.superslider .slider.horizontal .slide{ white-space: normal; display:inline-block; }
+.superslider .slider .slide div { position: absolute; }
+.superslider .slider .slide a { position: absolute; display:block; text-decoration: inherit; }
+.superslider .nav-left-right,
+.superslider .nav-up-down{ display:block; position: absolute; z-index:1000; }
+.superslider .nav-left-right{ top: 50%; }
+.superslider .nav-up-down{ left: 50%; }
+.superslider:hover .nav-left-right,
+.superslider:hover .nav-up-down { display:block; }
+.superslider .nav-left{ left: 0; }
+.superslider .nav-right{ right: 0; }
+.superslider .nav-up{ top: 0; }
+.superslider .nav-down{ bottom: 0; }
+.superslider .dots-wrap { text-align:center; }
+.superslider .dots-nav, .superslider .dots-nav li { display:inline-block; list-style: none; margin:0; padding:0; }
+.superslider .dots-nav{ margin: 0 auto; margin-top:10px; cursor: default; }
+.superslider .dots-nav li { float:left; margin-left:4px; }
+.superslider .dots-nav li .dot { display:block; border-radius: 50%; }
+
+/* Стили слайдера =========================================================== */
+
+.superslider .slider {
+}
+
+/* Стили слайда ============================================================= */
+
+.superslider .slider .slide {
+    /* Цвет фона слайдов по-умолчанию */
+    background-color:#CCCCCC;
+    /* Положение фонового изображения (по вертикали и горизонтали) */
+    background-position: center center;
+}
+
+.superslider .slider .slide a:hover {
+    /* Стили для ссылок внутри слайда (при наведении мышки) */
+    /* По-умолчанию увеличивается прозрачность ссылки */
+    opacity: 0.8;
+}
+
+/* Стили стрелок влево/вправо =============================================== */
+
+.superslider .nav-left-right{
+    /* Ширина и высота стрелок */
+    width: 24px; height: 60px;
+    /* минус половина высоты (для выравния стрелок по центру высоты слайда) */
+    margin-top:-30px;
+    /* удалите эту строку если нужно чтобы стрелки были видны всегда,
+    а не только при наведении мышки на слайдер: */
+    display:none;
+}
+
+.superslider .nav-left{
+    /* иконка стрелки "влево" */
+    background-image: url("/images/icons/left.png");
+}
+
+.superslider .nav-right{
+    /* иконка стрелки "вправо" */
+    background-image: url("/images/icons/right.png");
+}
+
+/* Стили стрелок вверх/вниз =============================================== */
+
+.superslider .nav-up-down{
+    /* Ширина и высота стрелок */
+    width: 60px; height: 24px;
+    /* минус ширина (для выравния стрелок по центру ширины слайда) */
+    margin-left:-24px;
+    /* удалите эту строку если нужно чтобы стрелки были видны всегда,
+    а не только при наведении мышки на слайдер: */
+    display:none;
+}
+
+.superslider .nav-up{
+    /* иконка стрелки "вверх" */
+    background-image: url("/images/icons/up.png");
+}
+
+.superslider .nav-down{
+    /* иконка стрелки "вниз" */
+    background-image: url("/images/icons/down.png");
+}
+
+/* Стили точек для выбора слайда ============================================ */
+
+.superslider .dots-nav .dot{
+    /* Ширина и высота точки */
+    width:8px; height:8px;
+    /* Цвет точки */
+    background-color: #CCCCCC;
+}
+
+.superslider .dots-nav .dot:hover{
+    /* Цвет точки при наведении */
+    background-color: #666;
+}
+
+.superslider .dots-nav .dot.active{
+    /* Цвет активной точки */
+    background-color: #000000;
+}

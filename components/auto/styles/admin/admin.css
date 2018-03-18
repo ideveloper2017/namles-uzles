@@ -1,0 +1,99 @@
+.currency-title{
+    font-size: 1.1em;
+    color: blue;
+    text-transform: uppercase;
+}
+
+.main-currency{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.size-100{
+    width: 30px;
+}
+.size-3000{
+    width: 40px;
+}
+.size-70px{
+    width: 70px;
+}
+
+#image_manager{
+
+}
+
+#image_manager tr{
+    vertical-align: top;
+}
+
+.js-btn{
+    border-bottom: 1px dashed;
+    cursor: pointer;
+}
+
+.js-btn:hover{
+    color: red;
+}
+
+
+/* region table border */
+.te_top {
+    position: static;
+    height: auto;
+}
+
+.te_top td {
+    height: 16px;
+    vertical-align: top;
+    color: #A0A0A0;
+    font-weight: bold;
+}
+
+.te_top .te_img1 {
+    background: url('../default/img/table/top_top1.png') no-repeat left bottom;
+    font-size: 10px;
+}
+
+.te_top .te_img2 {
+    background: url('../default/img/table/top_top2.png') repeat-x left bottom;
+    width: 100%;
+}
+
+.te_top .te_img2 p {
+    margin: 0 0 0 10px;
+    padding: 0 3px 0 3px;
+    background: #FFF;
+    display: inline;
+    font-size: 12px;
+}
+
+.te_top .te_img3 {
+    background: url('../default/img/table/top_top3.png') no-repeat right bottom;
+    font-size: 10px;
+}
+
+.te_imgl {
+    background: url('../default/img/table/top_left.png') repeat-y left top;
+    font-size: 10px;
+}
+
+.te_imgr {
+    background: url('../default/img/table/top_right.png') repeat-y right top;
+    font-size: 10px;
+}
+
+.te_bottom .te_img1 {
+    background: url('../default/img/table/top_bottom1.png') no-repeat left top;
+    font-size: 10px;
+}
+
+.te_bottom .te_img2 {
+    background: url('../default/img/table/top_bottom2.png') repeat-x left top;
+}
+
+.te_bottom .te_img3 {
+    background: url('../default/img/table/top_bottom3.png') no-repeat right top;
+    font-size: 10px;
+}
+/* endregion */

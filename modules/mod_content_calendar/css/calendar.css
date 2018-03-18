@@ -1,0 +1,111 @@
+div.calendar{
+   width:100%;
+   margin-left:auto;
+   margin-right:auto;
+   border-radius: 8px;
+   padding: 2px;
+    margin-bottom: 14px;
+    font-family: Tahoma;
+}
+table.calendar{
+    width:100%;
+   margin-left:auto;
+   margin-right:auto;
+   border: none;
+    padding: 2px;
+    margin-bottom: 14px;
+    vertical-align: baseline;
+    font-size: 12px;
+}
+
+td.lastday{
+   text-align:center;
+   color: #040404;
+}
+
+td.today{
+
+   text-align:center;
+    vertical-align: baseline;
+}
+td.today a{
+
+    display: inline-block;
+    border: 1px solid #a8a7a6;
+    width: 27px;
+    height: 22px;
+    line-height: 21px;
+    background: url("../col.png") left top repeat-x;
+    background: #a8a7a6;
+    border-radius: 5px;
+    color: #040404;
+}
+td.today a:hover{
+    text-decoration: none;
+}
+
+td.nextday{
+   text-align:center;
+}
+th.title{
+   text-align:center;
+
+}
+span.nameday
+{
+    display: inline-block;
+    /*border: 1px solid #a8a7a6;*/
+    width: 27px;
+    height: 22px;
+    line-height: 22px;
+    /*background: url("../col.png") left top repeat-x;*/
+    border-radius: 5px;
+}
+span.gr
+{
+    text-align:center;
+    background: #e16d3a;
+    display: inline-block;
+    color: #ffffff;
+    border: 1px solid #e16d3a;
+    width: 27px;
+    height: 22px;
+    line-height: 20px;
+    border-radius: 5px;
+}
+span.holyday
+{
+    color: #dc6039;
+}
+span.workday
+{
+    color: #040404;
+}
+td.arr
+{
+    color: #626261;
+    height: 31px;
+}
+td.arr a
+{
+    font-size: 10px !important;
+    color: #626261 !important;
+    text-decoration: none !important;
+}
+td.arr a:hover
+{
+    text-decoration: underline !important;
+}
+td.arr span.ti
+{
+    text-decoration: underline !important;
+    font-size: 13px !important;
+    font-family: "Open Sans Condensed";
+    display: inline-block;
+    padding: 0 2px;
+}
+td.arr div
+{
+    height: 25px;
+    line-height: 25px;
+}

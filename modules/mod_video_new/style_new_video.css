@@ -1,0 +1,19 @@
+.video_new {
+overflow:hidden;
+}
+
+.video_new_div {
+float:left; width:200px; height:150px; margin:10px;
+}
+.video_new_img{
+width:100%;
+}
+.video_new_play{
+background: none repeat scroll 0 0 #0099CC;  height: 20px; position: relative; top: -20px;
+}
+.video_but_plat_video{
+color:#fff; cursor:pointer;
+}
+.video_hits_new{
+ color: #FFFFFF;   left: 150px;   position: relative;  top: -20px;
+}
