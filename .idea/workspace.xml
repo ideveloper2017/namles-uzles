@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a32ee11-b590-49b6-b7da-35c4b5bfc17b" name="Default" comment="Update Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/theme/forest/template.php" afterPath="$PROJECT_DIR$/theme/forest/template.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,28 +27,28 @@
       <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/theme/forest/template.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="1419" column="37" lean-forward="false" selection-start-line="1419" selection-start-column="37" selection-end-line="1419" selection-end-column="37" />
+            <state relative-caret-position="387">
+              <caret line="408" column="78" lean-forward="false" selection-start-line="408" selection-start-column="78" selection-end-line="408" selection-end-column="78" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#23106#23113#1#HTML" expanded="true" />
-                <element signature="e#25304#25311#1#HTML" expanded="true" />
-                <element signature="e#27502#27509#1#HTML" expanded="true" />
-                <element signature="e#29700#29707#1#HTML" expanded="true" />
-                <element signature="e#31945#31952#1#HTML" expanded="true" />
-                <element signature="e#34143#34150#1#HTML" expanded="true" />
-                <element signature="e#36341#36348#1#HTML" expanded="true" />
-                <element signature="e#38539#38546#1#HTML" expanded="true" />
-                <element signature="e#69852#69858#0#HTML" expanded="true" />
+                <element signature="e#23152#23159#1#HTML" expanded="true" />
+                <element signature="e#25350#25357#1#HTML" expanded="true" />
+                <element signature="e#27548#27555#1#HTML" expanded="true" />
+                <element signature="e#29746#29753#1#HTML" expanded="true" />
+                <element signature="e#31991#31998#1#HTML" expanded="true" />
+                <element signature="e#34189#34196#1#HTML" expanded="true" />
+                <element signature="e#36387#36394#1#HTML" expanded="true" />
+                <element signature="e#38585#38592#1#HTML" expanded="true" />
+                <element signature="e#69898#69904#0#HTML" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#80190#80196#0#HTML" expanded="true" />
-                <element signature="e#80197#80203#0#HTML" expanded="true" />
-                <element signature="e#80204#80210#0#HTML" expanded="true" />
+                <element signature="e#80236#80242#0#HTML" expanded="true" />
+                <element signature="e#80243#80249#0#HTML" expanded="true" />
+                <element signature="e#80250#80256#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521363188929</updated>
-      <workItem from="1521363190695" duration="5901000" />
+      <workItem from="1521363190695" duration="6824000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project namles.uz website">
       <created>1521363248787</created>
@@ -213,13 +214,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5901000" />
+    <option name="totallyTimeSpent" value="6824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47280967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3429003" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -324,28 +324,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/forest/template.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="1419" column="37" lean-forward="false" selection-start-line="1419" selection-start-column="37" selection-end-line="1419" selection-end-column="37" />
+        <state relative-caret-position="387">
+          <caret line="408" column="78" lean-forward="false" selection-start-line="408" selection-start-column="78" selection-end-line="408" selection-end-column="78" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#23106#23113#1#HTML" expanded="true" />
-            <element signature="e#25304#25311#1#HTML" expanded="true" />
-            <element signature="e#27502#27509#1#HTML" expanded="true" />
-            <element signature="e#29700#29707#1#HTML" expanded="true" />
-            <element signature="e#31945#31952#1#HTML" expanded="true" />
-            <element signature="e#34143#34150#1#HTML" expanded="true" />
-            <element signature="e#36341#36348#1#HTML" expanded="true" />
-            <element signature="e#38539#38546#1#HTML" expanded="true" />
-            <element signature="e#69852#69858#0#HTML" expanded="true" />
+            <element signature="e#23152#23159#1#HTML" expanded="true" />
+            <element signature="e#25350#25357#1#HTML" expanded="true" />
+            <element signature="e#27548#27555#1#HTML" expanded="true" />
+            <element signature="e#29746#29753#1#HTML" expanded="true" />
+            <element signature="e#31991#31998#1#HTML" expanded="true" />
+            <element signature="e#34189#34196#1#HTML" expanded="true" />
+            <element signature="e#36387#36394#1#HTML" expanded="true" />
+            <element signature="e#38585#38592#1#HTML" expanded="true" />
+            <element signature="e#69898#69904#0#HTML" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#80190#80196#0#HTML" expanded="true" />
-            <element signature="e#80197#80203#0#HTML" expanded="true" />
-            <element signature="e#80204#80210#0#HTML" expanded="true" />
+            <element signature="e#80236#80242#0#HTML" expanded="true" />
+            <element signature="e#80243#80249#0#HTML" expanded="true" />
+            <element signature="e#80250#80256#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

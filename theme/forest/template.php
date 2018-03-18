@@ -403,10 +403,10 @@
         <div class="gallery-wrapper">
             <div class="g-row">
                 <div class="g-item">
-                    <img src="media/400x300/pr-1.jpg" alt="Recent Work">
+                    <img src="<?php echo THEMEURL ?>/media/400x300/pr-1.jpg" alt="Recent Work">
                     <div class="item-gallery-descr">
                         <div class="btn-modal-box">
-                            <a class="btn-modal" href="media/400x300/pr-1.jpg" data-toggle="lightbox" data-title="Recent Work">
+                            <a class="btn-modal" href="<?php echo THEMEURL ?>/media/400x300/pr-1.jpg" data-toggle="lightbox" data-title="Recent Work">
                                 <span class="ef icon_zoom-in"></span>
                             </a>
                             <button type="button" class="btn-modal" data-toggle="modal" data-target="#myModal">
