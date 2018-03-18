@@ -3,150 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a32ee11-b590-49b6-b7da-35c4b5bfc17b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_audio_view.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_comments.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_contacts.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_content_my.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_content_news_view.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_content_read.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_content_view.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_content_view2.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_content_view3.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_content_view4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_fcatalog_cats.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_fcatalog_list.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_fcatalog_search.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_fcatalog_view.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_feedback.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_music_index.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_music_list.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_music_singer.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_photos_list.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_photos_thumb.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_registration.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_signup.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_signup_email.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/components/com_users_profile.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/color.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/font-icons.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/owl-carousel/AjaxLoader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/owl-carousel/Thumbs.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/owl-carousel/grabbing.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/css/style2.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/fonts/ui-icons.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/fonts/ui-icons.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/fonts/ui-icons.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/fonts/ui-icons.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/fonts/ui-icons.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/Thumbs.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/apple-touch-icon-114x114.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/apple-touch-icon-72x72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/Thumbs.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/about_page_title.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/author.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/comment_1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/comment_2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/comment_3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/contact_page_title.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_img_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_img_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_img_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_small_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_small_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_small_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_small_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/featured_small_5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/grid_post_img_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/grid_post_img_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/grid_post_img_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/grid_post_img_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/grid_post_img_5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/grid_post_img_6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/lazyload/Thumbs.db" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/list_post_img_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/list_post_img_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/list_post_img_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/list_post_img_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/list_post_img_5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/placeholder_125.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/placeholder_300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/placeholder_728.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/placeholder_leaderboard.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/popular_post_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/popular_post_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/popular_post_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/popular_post_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/popular_post_5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/single_post_featured_img.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/single_post_img.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/video_thumb_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/video_thumb_2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/video_thumb_3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/blog/video_thumb_4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/dropdown.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/favicon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/logo_light.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/img/logo_light@2x.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/easing.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/jquery.appear.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/jquery.newsTicker.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/lazysizes.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/modernizr.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/owl-carousel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/scripts.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/js/twitterFetcher_min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_amlatest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_calendar.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_calendar2.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_calendarevents.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_clock.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_content_calendar.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_content_carusel.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_content_cat.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_cvideo.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_dt_newsscroll.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_feature.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_fotostena.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_latestnews.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_namaz.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_news_block.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_news_block3.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_news_block4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_news_block5.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_newslider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_newslider2.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_pogoda.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_search.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_superslider.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_topcontent.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_usermenu.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_video_new.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/mod_vmlatest.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module2.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module3.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module4.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module_content.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module_content1.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module_content2.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module_media.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/modules/module_menu.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/offline.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/position.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/theme/uzbekboxing/template.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/namles.uz.zip" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -316,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521363188929</updated>
-      <workItem from="1521363190695" duration="6854000" />
+      <workItem from="1521363190695" duration="6929000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project namles.uz website">
       <created>1521363248787</created>
@@ -360,11 +217,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521378386011</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update Project">
+      <created>1521378416377</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521378416377</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6854000" />
+    <option name="totallyTimeSpent" value="6929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="0" />
