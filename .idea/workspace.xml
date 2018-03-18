@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a32ee11-b590-49b6-b7da-35c4b5bfc17b" name="Default" comment="Update Project">
-      <change beforePath="$PROJECT_DIR$/images/.htaccess" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/0117f943ef0c297abf7f2fd287e2c039.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/083062019a522a49bf4ad2cfbee7f8bb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/13344a55a1dbfd26c12d1bb31e51ead0.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/1465326ba47351917bf6c3e3ce7cd2a5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/183be202d928e2cd42399bf7d2d312eb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/238815bd4b931a1b4faad35d485904c7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/417203ddd4b7133cd1a1ee94d62885ad.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/48515d329b72c39ef8dfbc80ca91d6aa.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/67f13d740ae1f0e95bbf0e1cd1cce7bd.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/8290f1d5b5eedb2768d773f47dc9075b.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/ccabcc79a9d72ff3cb327b7df24ffe2d.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/dd84e003d86bca70f5c6adc18c9e6f3c.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/0117f943ef0c297abf7f2fd287e2c039.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/083062019a522a49bf4ad2cfbee7f8bb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/13344a55a1dbfd26c12d1bb31e51ead0.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/1465326ba47351917bf6c3e3ce7cd2a5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/183be202d928e2cd42399bf7d2d312eb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/238815bd4b931a1b4faad35d485904c7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/417203ddd4b7133cd1a1ee94d62885ad.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/48515d329b72c39ef8dfbc80ca91d6aa.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/67f13d740ae1f0e95bbf0e1cd1cce7bd.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/8290f1d5b5eedb2768d773f47dc9075b.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/ccabcc79a9d72ff3cb327b7df24ffe2d.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/medium/dd84e003d86bca70f5c6adc18c9e6f3c.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/0117f943ef0c297abf7f2fd287e2c039.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/083062019a522a49bf4ad2cfbee7f8bb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/13344a55a1dbfd26c12d1bb31e51ead0.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/1465326ba47351917bf6c3e3ce7cd2a5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/183be202d928e2cd42399bf7d2d312eb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/238815bd4b931a1b4faad35d485904c7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/417203ddd4b7133cd1a1ee94d62885ad.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/48515d329b72c39ef8dfbc80ca91d6aa.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/67f13d740ae1f0e95bbf0e1cd1cce7bd.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/8290f1d5b5eedb2768d773f47dc9075b.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/ccabcc79a9d72ff3cb327b7df24ffe2d.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/photos/small/dd84e003d86bca70f5c6adc18c9e6f3c.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/includes/config.ini.php" afterPath="$PROJECT_DIR$/includes/config.ini.php" />
-      <change beforePath="$PROJECT_DIR$/theme/forest/template.php" afterPath="$PROJECT_DIR$/theme/forest/template.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,16 +49,6 @@
                 <element signature="e#80197#80203#0#HTML" expanded="true" />
                 <element signature="e#80204#80210#0#HTML" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="func.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/forest/js/func.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -220,7 +172,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521363188929</updated>
-      <workItem from="1521363190695" duration="5716000" />
+      <workItem from="1521363190695" duration="5901000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project namles.uz website">
       <created>1521363248787</created>
@@ -261,7 +213,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5716000" />
+    <option name="totallyTimeSpent" value="5901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="0" />
