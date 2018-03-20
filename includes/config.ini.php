@@ -12,13 +12,13 @@ $config = array(
     'wmark'=> 'watermark.png',
 	'short_date'=>'%d %b %Y',
 	'long_date'=>'%d %B %Y %H:%M',
-    'sitename'=> 'uzbekboxing.uz - Ўзбек бокси хақида',
+    'sitename'=> 'Наманган вилояти ўрмон хўжалигини расмий веб сайти',
     'offline'=> '0',
     'offline_d'=> '2015-12-17',
     'offline_t'=> '17:00:00',
     'offline_msg'=> 'Сайтда техник ишлар олиб бориляпти',
-    'metakeys'				=> 'бокс,профессионал бокс,аёллар бокси,WSB серияси,интервью',
-	'metadesc'				=> 'uzbekboxing.uz - Ўзбек бокси хақида',
+    'metakeys'				=> 'ўрмон,чўл,дарахт,овчилик,экотуризим,туризм',
+	'metadesc'				=> 'Наманган вилояти ўрмон хўжалигини расмий веб сайти',
 	'mail_transport'		=> 'mail',
 	'mail_from'				=> 'noreply@example.com',
 	'mail_smtp_server'		=> 'smtp.example.com',
@@ -27,8 +27,6 @@ $config = array(
 	'mail_smtp_user'		=> 'user@example.com',
 	'mail_smtp_pass'		=> '',
     'accesskey'=> '12345',
-
-
 );
 
 ?>

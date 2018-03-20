@@ -65,16 +65,16 @@ class Page
             $GLOBALS['page_desc'] = $config->metadesc;
         }
         ?>
-            <meta name="author" content="hidoya.uz">
+            <meta name="author" content="namles.uz">
             <title><?php echo htmlspecialchars($GLOBALS['page_title']) ?></title>
             <meta name="keywords" content="<?php echo  htmlspecialchars($GLOBALS['page_keys']) ?>" />
             <meta name="description" content="<?php  echo htmlspecialchars($GLOBALS['page_desc']) ?>"/>
-            <meta name="generator" content="hidoya.uz"/>
+            <meta name="generator" content="namles.uz"/>
             <meta property="og:locale" content="en_US" />
             <meta property="og:type" content="article" />
             <meta property="og:title" content="<?php echo htmlspecialchars($GLOBALS['page_title']); ?>">
             <meta property="og:description" content="<?php echo htmlspecialchars($GLOBALS['page_desc']) ?>">
-            <meta property="og:site_name" content="hidoya.uz">
+            <meta property="og:site_name" content="namles.uz">
             <?php
         if ($GLOBALS['site_url']) {
             ?>
