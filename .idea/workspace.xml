@@ -2,9 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a32ee11-b590-49b6-b7da-35c4b5bfc17b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/color.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/custom.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/demo-page.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/doc.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/hover-min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/jquery-ui.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/master.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/css/typography.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/elegant_font/ElegantIcons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/elegant_font/ElegantIcons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/elegant_font/ElegantIcons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/elegant_font/ElegantIcons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/elegant_font/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/flaticon/flaticon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/flaticon/flaticon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/flaticon/flaticon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/flaticon/flaticon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/fonts/flaticon/flaticon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/arrow-select.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/blocks-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/dash-br.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/dash.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/dotted-line.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/flower.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons-s2890f6d08a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/Thumbs.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/arrow-next.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/arrow-prev.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/bug.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/flower.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/quotes-s.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/quotes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/tool.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/icons/twig.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/logo-footer.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/pattern.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/sparrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/star-3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/star-4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/star-5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tools-bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tooth-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tooth-color-black.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tooth-color-gr.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tooth-color-w.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tooth-d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tooth-gr-1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/img/tooth-white.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/classie.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/func.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/jquery-1.11.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/jquery-ui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/jquery.easypiechart.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/jquery.placeholder.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/modernizr.custom.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/smoothscroll.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/waypoints.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/js/wow.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/contact/contact_me.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/contact/contact_me_v2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/contact/jqBootstrapValidation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/ekko-lightbox/ekko-lightbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/ekko-lightbox/ekko-lightbox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/ekko-lightbox/ekko-lightbox.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/ekko-lightbox/ekko-lightbox.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/owl-carousel/AjaxLoader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/owl-carousel/grabbing.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/owl-carousel/owl.carousel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/owl-carousel/owl.carousel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/owl-carousel/owl.carousel.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/owl-carousel/owl.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/owl-carousel/owl.transitions.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/css/github.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/c.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/coffeescript.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/csharp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/css.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/d.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/generic.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/go.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/haskell.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/html.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/java.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/javascript.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/lua.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/php.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/python.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/r.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/ruby.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/scheme.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/shell.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/language/smalltalk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/rainbow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/rainbow/js/rainbow.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/css/color1.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/css/color2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/css/color3.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/css/color4.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/css/switcher.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/images/slider-2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/js/bootstrap-select.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/js/dmss.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/theme/forest/plugins/switcher/js/evol.colorpicker.min.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/class/class_page.php" afterPath="$PROJECT_DIR$/class/class_page.php" />
-      <change beforePath="$PROJECT_DIR$/includes/config.ini.php" afterPath="$PROJECT_DIR$/includes/config.ini.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +143,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.ini.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="doc.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/theme/forest/css/doc.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/config.ini.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+              <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -211,7 +329,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521363188929</updated>
       <workItem from="1521363190695" duration="8265000" />
-      <workItem from="1521534899292" duration="551000" />
+      <workItem from="1521534899292" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project namles.uz website">
       <created>1521363248787</created>
@@ -269,17 +387,23 @@
       <option name="project" value="LOCAL" />
       <updated>1521378488322</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update Project">
+      <created>1521535459273</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521535459273</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8816000" />
+    <option name="totallyTimeSpent" value="8899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="677" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23791541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23791541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -390,14 +514,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/forest/js/func.js" />
-    <entry file="file://$PROJECT_DIR$/theme/forest/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class/class_page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -436,7 +552,23 @@
     <entry file="file://$PROJECT_DIR$/includes/config.ini.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="54" lean-forward="true" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/forest/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/forest/css/doc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
